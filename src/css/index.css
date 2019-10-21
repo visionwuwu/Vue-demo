@@ -1,0 +1,19 @@
+.red {
+    color: red;
+}
+
+.bg_red {
+    background: red;
+}
+
+.w_100 {
+    width: 100px;
+}
+
+.h_100 {
+    height: 100px;
+}
+
+ul {
+    list-style: none;
+}

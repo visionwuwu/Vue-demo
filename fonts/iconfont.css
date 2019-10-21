@@ -1,0 +1,21 @@
+@font-face {font-family: "iconfont";
+  src: url('iconfont.eot?t=1567834929372'); /* IE9 */
+  src: url('iconfont.eot?t=1567834929372#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAP0AAsAAAAACDwAAAOlAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCCcAqESIN/ATYCJAMICwYABCAFhG0HLxskByMRZnuRJvtngt2ejxMwgwy7Gyu6greZGohOFLwJAtLrfza7uRz4aFUfUkl3cufaHaASYAbntLEDB+QQ1GangFxBDxX/7BKb/K5oD6QRhQzYQwDst+2xdCUtJCzyOvRv/WTn2Ng3n7if+lfnA8sHNJfIpA5K2g1wPKCBdXpqgQbIbmC6YeyClrgfArATRQaioaljACsKc5gAxLTJE0djzRhRDfkCKwJLxVyF2IyOVVujXQE2BZ8Xb8gTVtDQJWZRz4TGcdQ8n2YlycUmZJhHIJrODrBFIIEMQIEYqHR2IaNIBhK7GlHEwbbyBTyfmaYn3OwfDwQIC6bSCWkRwmsSOeJLVWre6wrwAGfh36Abgkc4hU24hM0Z63Tmulwj7fvuNp6PFPEj3vimigu+kDf0ip/3XZAxIgT65Ji+Ky6naoc99quIf43/qfRnjasmCmqE6qvoeiBIEUKjVG6RRET3egrjZ7zl8WNRO30ZQKbcidgRr548Kyb2+fSUCoLp8ygwr1wufOEDTjLpl+STQMDEOvT7jdOgphhukg9aaIhNAJBFDL+k615ODwBrsgT1g53DqKWu7uPHu7sdjm7MkzPWljdFLaywxuedi9qQlFCvS2yrTUysd46sDXko1r0+qdlVW5yzL1ntdN64VGOex4ssahe/1ri3KRN7nb2HmxtUyuw5HfLm+N7axOOFqX2GMXPRsTFZ5xx/rzZbe/5c1aygBLthWXYpqbVsLmk49Ly/f8uNhWGRueNGfG9wD5iXy157Tu9Vm8Tlc3e4fS6k7WpvTq9dXDZl9zZ3o3ny9+cRTmudGj2ywWx0LzvheO/0Od8HvXf4IuMuh68Myg+mBgDzj0Lqf/s75J6MnjvSU/HN6lAAPHTG5Qbibm6wvhOXgH8r6linNIlp0pQiqkxonPW8sxI7dsAEe/14NtQdCIldYOUiCA2DSEisJJAULQM6DgpgwUo17KTTvNiBP3OQCGUD0lgBIPByDBpuzkLi5SpJ0Z5CJ4h3sOAVEnaGhP+aDpLEmSDqCSWjAfWHoPfN2hYWYf4N3TtLSksCxgvpCn4Y2j4fX3BDmmLC9XEjswVL+wozOAxz3uGgPaLm1jMfU9fZqgu1el8LUdQTSkYD6g9B75v1mrMovP+G7p0lNdRUuV9IV2gfhrbvQFqUW6eaW+l8fdzIbPEgS/sKM7RjtiI7HNW9Impu/YDQMXWoke2qbJdXr2+3BbAXpk4rrS51oR9yM7IoAAAAAA==') format('woff2'),
+  url('iconfont.woff?t=1567834929372') format('woff'),
+  url('iconfont.ttf?t=1567834929372') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('iconfont.svg?t=1567834929372#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-panda:before {
+  content: "\e66c";
+}
+

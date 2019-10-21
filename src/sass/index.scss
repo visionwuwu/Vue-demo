@@ -1,0 +1,15 @@
+body {
+    ul {
+        li {
+            &:nth-child(2) {
+                order: -1;
+                background: green !important;
+            }
+        }
+    }
+    .error_img {
+        height: 200px;
+        width: 500px;
+        background: url(../images/error.png) no-repeat center/cover;
+    }
+}
